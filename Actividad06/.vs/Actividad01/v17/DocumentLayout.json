@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\U\\UNL\\05 - Modelos y Algoritmos para Videojuegos I\\Unidad 3\\Actividades\\Actividad06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C96D4A1-5589-4CFA-9ABA-77CFE7441411}|Actividad01\\Actividad01.vcxproj|E:\\U\\UNL\\05 - Modelos y Algoritmos para Videojuegos I\\Unidad 3\\Actividades\\Actividad06\\Actividad01\\Actividad01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C96D4A1-5589-4CFA-9ABA-77CFE7441411}|Actividad01\\Actividad01.vcxproj|solutionrelative:Actividad01\\Actividad01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actividad01.cpp",
+              "DocumentMoniker": "E:\\U\\UNL\\05 - Modelos y Algoritmos para Videojuegos I\\Unidad 3\\Actividades\\Actividad06\\Actividad01\\Actividad01.cpp",
+              "RelativeDocumentMoniker": "Actividad01\\Actividad01.cpp",
+              "ToolTip": "E:\\U\\UNL\\05 - Modelos y Algoritmos para Videojuegos I\\Unidad 3\\Actividades\\Actividad06\\Actividad01\\Actividad01.cpp",
+              "RelativeToolTip": "Actividad01\\Actividad01.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T14:18:50.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

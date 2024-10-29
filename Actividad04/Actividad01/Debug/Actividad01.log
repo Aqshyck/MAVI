@@ -1,0 +1,4 @@
+﻿  Actividad01.cpp
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad04\Actividad01\Actividad01.cpp(43,60): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad04\Actividad01\Actividad01.cpp(43,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Actividad01.vcxproj -> E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad04\Debug\Actividad01.exe

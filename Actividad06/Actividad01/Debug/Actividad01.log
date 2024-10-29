@@ -1,0 +1,42 @@
+﻿  Actividad01.cpp
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,25): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,25): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,25): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,25): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,25): warning C4244:         ]
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,52): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,52): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,52): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,52): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(32,52): warning C4244:         ]
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,33): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,33): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,33): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,33): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,33): warning C4244:         ]
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,68): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,68): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,68): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,68): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(33,68): warning C4244:         ]
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,25): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,25): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,25): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,25): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,25): warning C4244:         ]
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,52): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,52): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,52): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,52): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(34,52): warning C4244:         ]
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,27): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,27): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,27): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,27): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,27): warning C4244:         ]
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,56): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,56): warning C4244:         with
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,56): warning C4244:         [
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,56): warning C4244:             T=unsigned int
+E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Actividad01\Actividad01.cpp(35,56): warning C4244:         ]
+  Actividad01.vcxproj -> E:\U\UNL\05 - Modelos y Algoritmos para Videojuegos I\Unidad 3\Actividades\Actividad06\Debug\Actividad01.exe
